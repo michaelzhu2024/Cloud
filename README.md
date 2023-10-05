@@ -12,7 +12,7 @@
    var a =""
    var b=""
    while (b != "202245") { //改为你自己的密码！
-     a = prompt("请输入“远卓公共云盘”的访问密码！"（提示：我的初中班级＋我的初中学号）)
+     a = prompt("请输入“远卓公共云盘”的访问密码！")
    if(a=="202245")
    {
      b=a
@@ -37,6 +37,4 @@
 </script>  
 
 
-<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" onbeforecopy="return false" onmouseup=document.selection.empty() oncopy=document.selection.empty() onselect=document.selection.empty()>
-</body>
-
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="0e2afd1c-b4b1-473e-9fd1-ec851b64537e";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
