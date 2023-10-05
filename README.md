@@ -4,3 +4,36 @@
 <p>需要帮助？前往<a href="https://a202245.rth1.link/">朱远卓的个人网站</a>（请不要打开代理！）
 <p>图片云盘（第三方）：<a href="https://smms.app/">中国访问</a>，<a href="https://sm.ms/">代理访问</a>
 <p><a href="https://sm.ms/image/FY4KeLNUQrItnuP" target="_blank"><img src="https://s2.loli.net/2023/10/05/FY4KeLNUQrItnuP.jpg" /></a>
+
+
+<script>  
+ art()
+   function art() {
+   var a =""
+   var b=""
+   while (b != "yzyc2023070401") { //改为你自己的密码！
+     a = prompt("请输入14位图书防伪码(防伪码为二维码下方红色数字，且注意字母大小写！)")
+   if(a=="yzyc2023070401")
+   {
+     b=a
+   alert("您购买的《远卓原创画册集——战术少女》于2023年7月4日出版，感谢您的购买")
+   return 0
+  }
+  if(a !="yzyc2023070401" && a!="")
+ {
+   if(a == null)
+   {
+     window.history.back();
+     location.reload();//强制刷新
+ 
+     window.location.go(-1); //强制跳转上一界面
+   }
+   else{
+   alert("防伪码错误！请重新核对填写或联系经销商，谨防受骗上当！")
+   }
+ }
+ }
+ 
+   }
+</script>  
+
