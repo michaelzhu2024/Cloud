@@ -2,9 +2,9 @@
 
 ### 您可以通过以下方案快速下载云盘文件：
 
-**1.github（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**
+**1.github储存库（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**
 
-**2.gitee（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
+**2.gitee储存库（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
 
 **3.敬请期待！！！**
 
