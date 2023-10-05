@@ -3,11 +3,6 @@
  -（需要代理！）
  -
 
-遇到问题？
-<p>下载速度慢？<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>
-<p>需要帮助？点击网页右下角的小蓝标就可以跟客服对话了！
-<p>图片云盘（第三方）：<a href="https://smms.app/">中国访问</a>，<a href="https://sm.ms/">代理访问</a>
-
 ### 您可以通过以下方案快速下载云盘文件：
 
 **1.github（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**
@@ -15,6 +10,11 @@
 **此项目涉及到的依赖（例如：百度统计账号、文本分析API等）实在太多，不能直接copy。自己折腾吧，加油，建站（特别是自己的网站）是个锻炼自己的好机会。如果有疑问，可以联系我哦**
 
 **BTW，如果可以，希望给个star或者fork奖励**
+
+遇到问题？
+<p>下载速度慢？<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>
+<p>需要帮助？点击网页右下角的小蓝标就可以跟客服对话了！
+<p>图片云盘（第三方）：<a href="https://smms.app/">中国访问</a>，<a href="https://sm.ms/">代理访问</a>
 
 
 
