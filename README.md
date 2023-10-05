@@ -1,4 +1,4 @@
-# 远卓公共云盘：提供公共文件下载服务！
+# 远卓私有云盘：提供私密文件下载服务！
 <p>下载云盘文件（github）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>
 <p>下载速度慢？<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>
 <p>需要帮助？前往<a href="https://a202245.rth1.link/">朱远卓的个人网站</a>（请不要打开代理！）
@@ -12,7 +12,7 @@
    var a =""
    var b=""
    while (b != "202245") { //改为你自己的密码！
-     a = prompt("请输入“远卓公共云盘”的访问密码！")
+     a = prompt("请输入“远卓私有云盘”的访问密码！")
    if(a=="202245")
    {
      b=a
