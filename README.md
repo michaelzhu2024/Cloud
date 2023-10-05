@@ -1,15 +1,12 @@
 # 远卓私有云盘：提供私密文件下载服务！
-###您可以通过以下方案快速下载云盘文件：
- -（需要代理！）
- -
 
 ### 您可以通过以下方案快速下载云盘文件：
 
 **1.github（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**
 
-**此项目涉及到的依赖（例如：百度统计账号、文本分析API等）实在太多，不能直接copy。自己折腾吧，加油，建站（特别是自己的网站）是个锻炼自己的好机会。如果有疑问，可以联系我哦**
+**2.gitee（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
 
-**BTW，如果可以，希望给个star或者fork奖励**
+**3.敬请期待！！！**
 
 遇到问题？
 <p>下载速度慢？<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>
