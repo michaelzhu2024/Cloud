@@ -8,9 +8,14 @@
 
 **3.敬请期待！！！**
 
-遇到问题？
-<p>下载速度慢？<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>
-<p>需要帮助？点击网页右下角的小蓝标就可以跟客服对话了！
+### 遇到问题？先看这里！：
+
+**1.下载速度慢？可以试一试<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，或者看一看<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>**
+
+**2.依然无法解决？点击网页右下角的小蓝标就可以跟客服对话了！**
+
+**3.敬请期待！！！**
+
 <p>图片云盘（第三方）：<a href="https://smms.app/">中国访问</a>，<a href="https://sm.ms/">代理访问</a>
 
 
