@@ -24,6 +24,20 @@
 
 
 
+ div{
+        width: 1000px;
+        height: 680px;
+        border: palevioletred 3px solid;
+        margin: auto;
+        background-image: url(https://sm.ms/image/FY4KeLNUQrItnuP" target="_blank"><img src="https://s2.loli.net/2023/10/05/FY4KeLNUQrItnuP.jpg);
+        background-size: cover;
+
+    }
+
+
+
+
+
 
 
 
