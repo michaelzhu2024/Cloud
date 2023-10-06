@@ -1,4 +1,4 @@
-# 远卓私有云盘：快速下载私密文件！<p><a href="https://sm.ms/image/FY4KeLNUQrItnuP" target="_blank"><img src="https://s2.loli.net/2023/10/05/FY4KeLNUQrItnuP.jpg" /></a>
+# 远卓私有云盘：快速下载私密文件！
 
 ### 一.通过开源储存库下载文件：
 **1.github储存库（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**；
