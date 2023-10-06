@@ -7,12 +7,10 @@
 **2.gitee储存库（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
 
 ### 通过蓝奏云下载散装云盘文件：（下载密码为登录密码）
-
 **1.苹果美区账户：<a href="https://michaelzhu.lanzoub.com/b030w3p6f">点击跳转</a>**
-
-**2.敬请期待！！！**
-
-**3.敬请期待！！！**
+**2.流氓软件清理工具包：<a href="https://michaelzhu.lanzoub.com/b032ksava">点击跳转</a>**
+**3.加速软件破解包 ：<a href=https://michaelzhu.lanzoub.com/b032mpn9a"">点击跳转</a>**
+**3.ChatGPT增值包 ：<a href="https://michaelzhu.lanzoub.com/b032s544h">点击跳转</a>**
 
 
 ### 遇到问题？先看这里：
