@@ -1,18 +1,18 @@
-# 一.远卓私有云盘
+# 远卓私有云盘
 
-### 通过开源储存库下载云盘文件：
+### 一.通过开源储存库下载云盘文件：
 
 **1.github储存库（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**；
 **2.gitee储存库（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
 
-### 通过蓝奏云下载散装云盘文件：（下载密码为登录密码）
+### 二.通过蓝奏云下载散装云盘文件：（下载密码为登录密码）
 **1.苹果美区账户：<a href="https://michaelzhu.lanzoub.com/b030w3p6f">点击跳转</a>**；
 **2.流氓软件清理工具包：<a href="https://michaelzhu.lanzoub.com/b032ksava">点击跳转</a>**；
 **3.加速软件破解包 ：<a href="https://michaelzhu.lanzoub.com/b032mpn9a">点击跳转</a>**；
 **3.ChatGPT增值包 ：<a href="https://michaelzhu.lanzoub.com/b032s544h">点击跳转</a>**
 
 
-### 遇到问题？先看这里：
+### 三.遇到问题？先看这里：
 
 **1.下载速度慢？可以试一试<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，或者看一看<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>**
 
