@@ -12,7 +12,10 @@
 **3.ChatGPT增值包 ：<a href="https://michaelzhu.lanzoub.com/b032s544h">点击跳转</a>**
 
 
-### 三.遇到问题？先看这里：
+### 三.通过Google云端硬盘（Google Drive）下载云盘文件：（需要代理，低优先级更新）
+**1.加速软件破解包 ：<a href="https://drive.google.com/drive/folders/1ld7WI2ikSifdOfe-pJl2kKacVGCt_-mV?usp=sharing">点击跳转</a>**
+
+### 四.遇到问题？先看这里：
 
 **1.下载速度慢？可以试一试<a href="https://gh.api.99988866.xyz/">下载加速网站</a>，或者看一看<a href="https://cloud.tencent.com/developer/article/2213558">下载攻略</a>**
 
