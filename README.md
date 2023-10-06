@@ -1,12 +1,19 @@
 # 远卓私有云盘
 
-### 您可以通过以下方案快速下载云盘文件：
+### 通过开源储存库下载云盘文件：
 
 **1.github储存库（需代理，高优先级更新）：<a href="https://github.com/zhuyuanzhuo/Cloud/releases">点击跳转</a>**
 
 **2.gitee储存库（无需代理，中优先级更新）：<a href="https://gitee.com/yuanzhuokaifa/Cloud/releases">点击跳转</a>**
 
+### 通过蓝奏云下载散装云盘文件：（下载密码为登录密码）
+
+**1.苹果美区账户：<a href="https://michaelzhu.lanzoub.com/b030w3p6f">点击跳转</a>**
+
+**2.敬请期待！！！**
+
 **3.敬请期待！！！**
+
 
 ### 遇到问题？先看这里：
 
@@ -62,4 +69,4 @@
 </script>  
 
 
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="17d5aae8-6af8-4782-a916-efd31142e0d4";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
+<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="17d5aae8-6af8-4782-a916-efd31142e0d4";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0]。appendChild(s);})();</script>
