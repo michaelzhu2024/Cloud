@@ -48,36 +48,4 @@ var _hmt = _hmt || [];
 
 
 
-
-<script>  
- art()
-   function art() {
-   var a =""
-   var b=""
-   while (b != "202245") { //改为你自己的密码！
-     a = prompt("请输入“远卓私有云盘”的访问密码！")
-   if(a=="202245")
-   {
-     b=a
-   return 0
-  }
-  if(a !="202245" && a!="")
- {
-   if(a == null)
-   {
-     window.history.back();
-     location.reload();//强制刷新
- 
-     window.location.go(-1); //强制跳转上一界面
-   }
-   else{
-   alert("密码错误，请询问管理员！")
-   }
- }
- }
- 
-   }
-</script>  
-
-
 <script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="17d5aae8-6af8-4782-a916-efd31142e0d4";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0]。appendChild(s);})();</script>
