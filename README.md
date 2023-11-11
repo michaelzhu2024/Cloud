@@ -8,9 +8,9 @@
 **1.苹果美区账户：<a href="https://michaelzhu.lanzoub.com/b030w3p6f">点击跳转</a>**；
 **2.流氓软件清理工具包：<a href="https://michaelzhu.lanzoub.com/b032ksava">点击跳转</a>**；
 **3.加速软件破解包 ：<a href="https://michaelzhu.lanzoub.com/b032mpn9a">点击跳转</a>**；
-**3.ChatGPT增值包 ：<a href="https://michaelzhu.lanzoub.com/b032s544h">点击跳转</a>**；
-**3.45套语文答题卡（已解压） ：<a href="https://michaelzhu.lanzoub.com/b0332z7ne">点击跳转</a>**
-
+**4.ChatGPT增值包 ：<a href="https://michaelzhu.lanzoub.com/b032s544h">点击跳转</a>**；
+**5.45套语文答题卡（已解压） ：<a href="https://michaelzhu.lanzoub.com/b0332z7ne">点击跳转</a>**
+**6.GitHub恢复密钥 ：<a href="https://michaelzhu.lanzoub.com/b0337refa">点击跳转</a>**
 ### 三.通过Google云端硬盘（Google Drive）下载文件：
 **1.加速软件破解包 ：<a href="https://drive.google.com/drive/folders/1ld7WI2ikSifdOfe-pJl2kKacVGCt_-mV?usp=sharing">点击跳转</a>**
 
